@@ -1,0 +1,28 @@
+{
+  "name": "gulp-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-less": "^4.0.1",
+    "gulp-ng-annotate": "^2.1.0",
+    "gulp-uglify": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wengpengfei/gulp-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wengpengfei/gulp-app/issues"
+  },
+  "homepage": "https://github.com/wengpengfei/gulp-app#readme"
+}

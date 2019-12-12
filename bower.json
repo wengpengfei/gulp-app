@@ -1,0 +1,23 @@
+{
+  "name": "gulp-app",
+  "homepage": "https://github.com/wengpengfei/gulp-app",
+  "authors": [
+    "w翁鹏飞 <wengpengfeijava@163.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "^0.3.2",
+    "oclazyload": "^1.1.0",
+    "ui-router-extras": "^0.0.14",
+    "angular": "1.2.32"
+  }
+}
